@@ -1,0 +1,188 @@
+.casa-caja{
+	margin: 0 auto;
+	height:650px;
+	width:2000px;
+	position:relative;
+	background-color: lightblue;
+}
+
+.pasto{
+	background-color: #D0FA58;
+	border:2px dotted green;
+	height: 100px;
+	width:2000px;
+	position:absolute;
+	bottom:0px;
+}
+
+.base{
+	background-color: #86B404;
+	border:2px solid black;
+	height:200px;
+	width:400px;
+	position:absolute;
+	left:700px;
+	top:350px;
+}
+
+.techo{
+	background-color: ;
+	border:none;
+	width:400px;
+	border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom: 100px solid #122A0A;
+    position: absolute;
+    left:640px;
+    top:255px;
+}
+
+.ventana_1{
+	background-color: #A9F5F2;
+	border:1px dotted black;
+	height:80px;
+	width:70px;
+	position:absolute;
+	left:750px;
+	top:380px;
+}
+
+.ventana_2{
+	background-color: #A9F5F2;
+	border:1px dotted black;
+	height:80px;
+	width:70px;
+	position:absolute;
+	left:980px;
+	top:380px;
+}
+
+.puerta{
+	background-color: #FE642E;
+	border:1px dotted black;
+	height:170px;
+	width:80px;
+	position:absolute;
+	left:860px;
+	top:380px;
+}
+
+.chimenea{
+	background-color: grey;
+	border:1px dotted darkgrey;
+	height:50px;
+	width:50px;
+	position:absolute;
+	left:1020px;
+	top:230px;
+}
+
+.humo_1{
+     width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #F2F2F2;
+     position:absolute;
+	 left:1080px;
+	 top:155px;
+}
+
+.humo_2{
+     width: 30px;
+     height: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #E6E6E6;
+     position:absolute;
+	 left:1055px;
+	 top:170px;
+}
+
+.humo_3{
+     width: 40px;
+     height: 40px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #BDBDBD;
+     position:absolute;
+	 left:1026px;
+	 top:190px;
+}
+
+
+.arbol1{
+     width: 0; 
+     height: 0; 
+     border-left: 60px solid transparent;
+     border-right: 60px solid transparent;
+     border-bottom: 180px solid green;
+     position:absolute;
+     top:350px;
+     left:0px;
+}
+
+.arbol2{
+     width: 0; 
+     height: 0; 
+     border-left: 60px solid transparent;
+     border-right: 60px solid transparent;
+     border-bottom: 180px solid green;
+     position:absolute;
+     top:350px;
+     left:200px;
+}
+
+.arbol3{
+     width: 0; 
+     height: 0; 
+     border-left: 60px solid transparent;
+     border-right: 60px solid transparent;
+     border-bottom: 180px solid green;
+     position:absolute;
+     top:350px;
+     left:400px;
+}
+
+.tronco1{
+	background-color: #3B170B;
+	height:50px;
+	width:50px;
+	position:absolute;
+	left:35px;
+	top:530px;
+}
+
+.tronco2{
+	background-color: #3B170B;
+	height:50px;
+	width:50px;
+	position:absolute;
+	left:237px;
+	top: 530px;
+}
+
+
+.tronco3{
+	background-color: #3B170B;
+	height:50px;
+	width:50px;
+	position:absolute;
+	left:437px;
+	top: 530px;
+}
+
+.sol{
+     width: 150px;
+     height: 150px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: yellow;
+     position:absolute;
+     left:20px;
+     top:20px;
+}
